@@ -2,8 +2,7 @@
 
 /**
  * main - main block
- * Description: print the alphabet in reverse order in lower 
- * case
+ * Description: print the alphabet in reverse order in lowercas
  * Return: 0
  */
 
