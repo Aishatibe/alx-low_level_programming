@@ -2,7 +2,8 @@
 #include <stdlib.h>
 #include <time.h>
 
-/** * main - main block
+/**
+ * main - main block
  * Description: use putchar to print all letters but the letter p and q .
  * Return: 0
  */
