@@ -2,10 +2,9 @@
 #include <stdlib.h>
 #include <time.h>
 
-/**
- * main - main block
- * Description: use putchar to print all letters but the letter 'q' and 'e' .
- * Returen: 0
+/** * main - main block
+ * Description: use putchar to print all letters but the letter p and q .
+ * Return: 0
  */
 
 int main(void)
