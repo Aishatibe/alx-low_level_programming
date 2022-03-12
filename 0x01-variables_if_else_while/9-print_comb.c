@@ -3,6 +3,7 @@
 /**
  * main - main block
  * Description: print all combinations for single digit
+ *Return: 0
  */
 
 int main(void)
