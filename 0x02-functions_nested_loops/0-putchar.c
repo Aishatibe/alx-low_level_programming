@@ -5,6 +5,7 @@
 /**
  * _putchar -writes the character c to stdout
  * @c: the character to print
+ * Description: prints _putchar
  * Return: 0
  */
 
