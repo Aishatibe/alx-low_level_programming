@@ -2,19 +2,21 @@
 
 /**
  * main - main block
+ * print_alphabet - prints the alphabet, in lowercase, followed by a new line
  * Description: prints alphabet in lower case
- * Return: 0
+ * Return: o
  */
-
 void print_alphabet(void)
 {
-	char la;
+	char ch;
 
-	for (la = 'a'; la <= 'z'; la++)
+	ch = 'a';
+
+	while (ch <= 'z')
 	{
-		_putchar(la);
+		_putchar(ch);
+		ch++;
 	}
 
 	_putchar('\n');
-	
 }
